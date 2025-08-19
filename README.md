@@ -7,7 +7,6 @@ Welcome! This repository contains the resume of **Shreenu Sutar**, a Computer Sc
 ## 👤 About Me
 
 - 💻 Computer Science & Engineering student at **Vellore Institute of Technology, Bhopal**
-- 🎓 Current GPA: **7.43**
 - 🌱 Actively exploring **MERN Stack** and **Generative AI**
 - 🌐 LinkedIn: [linkedin.com/in/shreenu-sutar](https://www.linkedin.com/in/shreenu-sutar)
 - 📧 Email: shreenu.sutar22@gmail.com
@@ -39,11 +38,8 @@ Welcome! This repository contains the resume of **Shreenu Sutar**, a Computer Sc
 ## 🎯 Academic Background
 
 - 🎓 **VIT Bhopal University** – B.Tech in CSE (2022–Present)  
-  GPA: 7.43
 - 🏫 **Narayana E-Techno School** – Class XII  
-  Percentage: 65.4%
 - 🏫 **Seven Square Academy** – Class X  
-  Percentage: 86.2%
 
 ---
 
