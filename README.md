@@ -10,7 +10,6 @@ Welcome! This repository contains the resume of **Shreenu Sutar**, a Computer Sc
 - 🌱 Actively exploring **MERN Stack** and **Generative AI**
 - 🌐 LinkedIn: [linkedin.com/in/shreenu-sutar](https://www.linkedin.com/in/shreenu-sutar)
 - 📧 Email: shreenu.sutar22@gmail.com
-- 📱 Phone: +91 9594832865
 
 ---
 
